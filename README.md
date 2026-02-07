@@ -36,7 +36,7 @@ BrandSync is an AI assistant that lives inside Adobe Express and enforces brand 
 
 ## 📊 Status
 
-🚧 **Currently in development** - targeting April 2026 launch
+🚧 **Currently in development** - targeting July 2026 launch
 
 **Funded by Adobe Fund for Design** ✓
 
